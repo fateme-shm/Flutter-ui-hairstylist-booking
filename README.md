@@ -1,6 +1,6 @@
 # progress_pie_chart
 
-Day 10 | progress pie chart
+Flutter Challenge Day 10 | progress pie chart
 
 ***Pay attention this is just Ui design without any backend code! just to get an idea for your project ***
 
